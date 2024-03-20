@@ -20,7 +20,7 @@
 
 ###
 
-<img align="left" height="400" src="https://github.com/GustavHeinrich/UserStyles/assets/164238337/a8a036c1-95db-4ef5-8a26-0c3aaccf2de7"  />
+<img align="left" height="200" src="https://github.com/GustavHeinrich/UserStyles/assets/164238337/a8a036c1-95db-4ef5-8a26-0c3aaccf2de7"  />
 
 ###
 
