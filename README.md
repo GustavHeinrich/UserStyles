@@ -20,16 +20,20 @@
 
 ###
 
-<div align="center">
-  <img height="400" src="https://github.com/GustavHeinrich/UserStyles/assets/164238337/a8a036c1-95db-4ef5-8a26-0c3aaccf2de7"  />
-</div>
+<img align="left" height="400" src="https://github.com/GustavHeinrich/UserStyles/assets/164238337/a8a036c1-95db-4ef5-8a26-0c3aaccf2de7"  />
 
 ###
 
-<h3 align="left">Better Enhanced Theme for Roblox / Better Enhanced Theme for Roblox Lite</h3>
+<h3 align="left">Better Enhanced Theme for Roblox</h3>
 
 ###
 
 <p align="left">The Better Enhanced Theme for Roblox (BETH) is a theme inspired by platform interfaces such as Steam, Epic Games Store and Microsoft Store. Similar to my other theme, Acrylic Material, BETH aims to provide user immersion and modern portability. It modifies the look and feel of the Roblox website and adds new features to enhance the site's core functionality.</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="20" alt="css3 logo"  />
+</div>
 
 ###
