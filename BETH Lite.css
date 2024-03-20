@@ -28,16 +28,10 @@ border: 0px solid rgba(255, 255, 255, 0.2);
 .rbx-header .rbx-navbar-icon-group .age-bracket-label {
     float: right;
     display: inline-flex;
-    /* margin-bottom: 20px; */
-    /* padding-top: 6px; */
     margin-right: 6px;
-    /* padding-bottom: 6px; */
     padding: 5px;
     border-radius: 8px;
     backdrop-filter: blur(50px);
-    /* position: absolute; */
-    /* top: 1px; */
-    /* left: 1500px; */
     align-items: center;
 }
 
