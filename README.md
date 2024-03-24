@@ -48,7 +48,7 @@
 
 ###
 
-<p align="left">Introducing Acrylic Material: A meticulously crafted theme that brings the authentic Windows 11 experience to Roblox. With Acrylic Material, immerse yourself in a world of sleek design and modern functionality, transforming your Roblox website interface.</p>
+<p align="right">Introducing Acrylic Material: A meticulously crafted theme that brings the authentic Windows 11 experience to Roblox. With Acrylic Material, immerse yourself in a world of sleek design and modern functionality, transforming your Roblox website interface.</p>
 
 ###
 
