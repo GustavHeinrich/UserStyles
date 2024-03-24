@@ -33,7 +33,27 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="20" alt="css3 logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=js" height="20" alt="javascript logo"  />
+</div>
+
+###
+
+<img align="right" height="200" src="https://github.com/GustavHeinrich/UserStyles/assets/164238337/b43e0b2d-8368-43bf-9b5a-9430c4b15d09"  />
+
+###
+
+<h3 align="right">Acrylic Material: Windows 11 beauty in Roblox.</h3>
+
+###
+
+<p align="left">Introducing Acrylic Material: A meticulously crafted theme that brings the authentic Windows 11 experience to Roblox. With Acrylic Material, immerse yourself in a world of sleek design and modern functionality, transforming your Roblox website interface.</p>
+
+###
+
+<div align="right">
+  <img src="https://skillicons.dev/icons?i=css" height="20" alt="css3 logo"  />
 </div>
 
 ###
