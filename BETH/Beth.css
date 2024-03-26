@@ -4,32 +4,9 @@
 @author       Gustav Heinrich
 @description  The Better Enhanced Theme for Roblox (BETH) is a theme inspired by platform interfaces such as Steam, Epic Games Store and Microsoft Store. Similar to my other theme, Acrylic Material, BETH aims to provide user immersion and modern portability. It modifies the look and feel of the Roblox website and adds new features to enhance the site's core functionality.
 @version      20240314.00.51
-@license      Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+@license      CC0 1.0 Universal
 @preprocessor uso
 ==/UserStyle== */
-
-/*
-(CC BY-NC-SA 4.0)
-
-Summary License:
-You are free to:
-
-- Share - copy and redistribute the material in any medium or format.
-- Adapt - remix, transform and create from the material.
-
-Under the following terms:
-
-- Attribution - You must give appropriate credit, provide a link to the license and indicate if changes have been made. You may do so in any reasonable way, but not in a way that suggests that the licensor endorses you or your use.
-- NonCommercial - You may not use the material for commercial purposes.
-- ShareAlike - If you remix, transform or create from the material, you must distribute your contributions under the same license as the original.
-
-No additional restrictions - You may not apply legal terms or technological measures that legally restrict others from doing what the license allows.
-
-Warning:
-
-You are not required to comply with the terms of the license for elements of the material that are in the public domain or where their use is permitted by an applicable exception or limitation.
-No warranties are guaranteed. The license may not provide all the necessary permissions for the intended use. For example, other rights, such as publicity, privacy or moral rights, may limit how you use the material.
-*/
 @-moz-document url-prefix("https://www.roblox.com/") {
   html {
       display: block;
